@@ -19,4 +19,4 @@
 
 🏃‍♀️ **Github Status** <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CINY4612&theme=swift&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CINY4612&theme=nord&show_icons=true&hide_title=true&text_bold=false)
